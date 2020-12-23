@@ -1,6 +1,12 @@
 package com.socialrn;
 
 import com.facebook.react.ReactActivity;
+import com.facebook.react.ReactActivityDelegate;
+import com.facebook.react.ReactRootView;
+import com.swansion.gesturehandler.react.RNGestureHandlerEnableView;
+
+
+
 
 public class MainActivity extends ReactActivity {
 
@@ -11,5 +17,13 @@ public class MainActivity extends ReactActivity {
   @Override
   protected String getMainComponentName() {
     return "SocialRN";
+  }
+  @Override
+  protected ReactActivityDelegate create(){
+    return new ReactActivityDelegate((this.getMainComponentName)){
+      @Override protected ReactRootView create ReactRootView(){
+        return new ReactRootView(MainActivity.this())
+      }
+    };
   }
 }
