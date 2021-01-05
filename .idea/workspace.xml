@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb05e052-52a6-4e3d-9d06-ba15e7f5021a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialRN/.expo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialRN/.expo/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialRN/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocialRN/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialRN/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocialRN/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m4KxzlutjiTaCw948xgV54YuMR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/SocialRN" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SocialRN" />
+    <property name="recentsLimit" value="4" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="run-android" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb05e052-52a6-4e3d-9d06-ba15e7f5021a" name="Default Changelist" comment="" />
+      <created>1608747673571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608747673571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609097403325">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1609097403325" />
+    <state x="182" y="147" width="1074" height="501" key="AVDManager" timestamp="1609286236974">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="182" y="147" width="1074" height="501" key="AVDManager/72.27.1294.741@72.27.1294.741" timestamp="1609286236974" />
+    <state x="502" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1609097145326">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="141" width="424" height="520" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1609097145326" />
+    <state x="383" y="174" key="run.anything.popup" timestamp="1609099368515">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1609099368515" />
+  </component>
+</project>
